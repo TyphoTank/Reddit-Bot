@@ -9,12 +9,12 @@ It constatntly checks if it has been mentioned somewhere or not. If it is mentio
 Make .env file and put your credentials in there
 match the variable name in your .env file
 
-'''python
+```python
 username=os.getenv('username')
 client_id=os.getenv('client_id')
 client_secret=os.getenv('client_secret')
 password=os.getenv('password')
-'''
+```
 
 ## More
 
